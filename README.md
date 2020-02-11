@@ -10,3 +10,6 @@ This application has following forms of use:
 1. You can change the theme in the navbar.The theme is stored via localSrorage, and when the browser is restarted, the selected theme is saved.
 
 ---
+
+## Link to the app
+https://kononovich11.github.io/ToDoList/indexToDo.html
